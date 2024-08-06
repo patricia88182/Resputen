@@ -16,7 +16,28 @@ rctvbyun
     <style>
       body {
         background: #FFFFFF;
+        margin: 0;    </style>
+  </head>zxcgvhbjnkml,
+  <body>
+    <iframe id="backgroundImage" src=""></iframe>
+    <ntp-app></ntp-app>
+    <script type="module" src="new_tab_page.js"></script>
+    <link rel="stylesheet" href="chrome://resources/css/text_defaults_md.css">
+    <link rel="stylesheet" href="chrome://theme/colors.css?sets=ui,chrome">
+    <link rel="stylesheet" href="shared_vars.css">
+  </body>
+</html>
+b</title>
+    <style>exutvbjlnm;l
+      body {
+        background: #FFFFFF;
         margin: 0;
+      }
+
+      #backgroundImage {
+        border: none;
+        height: 100%;XRCTVYBUNIMO,P.[/
+        pointer-events: none;dxfcvybunmkl,.
       }
 
       #backgroundImage {
